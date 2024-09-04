@@ -1,0 +1,36 @@
+should use 0.8mm board thickness for smaller profile
+
+do testing with 3 wire spi
+
+assembly with epoxy so print wall thickness can be rather small
+
+use foam padding on bottom 1/16 inch is common
+
+potentially use wire shroud or heat shrink depending on stiffness
+
+leave epoxy opening underneath so it can be filled and sanded
+
+make each finder strip replacable
+
+If it's not too bad, possibly use flex pcb
+
+lazer cuttable stencil for later
+
+possibly add touch sensing or haptic feedback with electrosmotic pumps
+
+assembly cut all wires(and extra refrence(uncut)) to exact length first
+
+solder both ends of one wire before moving to next one
+
+preferably do all assembly in on sitting to get wire strip and lengths as close as possible
+
+bend wires so boards lay on their side (easy angle to solder)
+
+a little bit oh heatshrink in the middle of the wiring
+
+just use flexpcb for fingers
+
+use esp32 with octal or quad spi for rf transfer
+
+use ethernet for communication back to computer
+most likely with another esp32 and small fpga
